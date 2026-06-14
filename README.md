@@ -1,7 +1,7 @@
 # 🛡️ DevOps Shield — Uptime & Server Monitoring Service
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ibrohim0811/Devshield/favicon/logo.png" alt="I>_Develop Logo" width="400">
+  <img src="https://github.com/ibrohim0811/Devshield/blob/master/favicon/logo.png" alt="I>_Develop Logo" width="400">
 </p>
 
 <p align="center">
