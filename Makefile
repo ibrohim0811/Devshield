@@ -7,3 +7,5 @@ mig:
 admin:
 	python3 manage.py createsuperuser
 
+schema:
+	python manage.py spectacular --format json --file schema.json
