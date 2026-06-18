@@ -45,7 +45,8 @@
 
 ### 1. Loyihani yuklab olish va virtual muhitni yoqish
 ```bash
-git clone [https://github.com/sizning_github_username/devops_shield.git](https://github.com/sizning_github_username/devops_shield.git)
-cd devops_shield
+git clone [https://github.com/ibrohim0811/Devshield.git](https://github.com/ibrohim0811
+/Devshield.git)
+cd Devshield
 python -m venv venv
 source venv/bin/activate  # Windows uchun: venv\Scripts\activate
