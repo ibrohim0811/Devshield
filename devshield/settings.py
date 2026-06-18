@@ -32,7 +32,6 @@ INSTALLED_APPS = [
 
     # install apps
     'rest_framework',
-    'drf_spectacular',
     'rest_framework_simplejwt.token_blacklist',
     'django_filters',
 ]

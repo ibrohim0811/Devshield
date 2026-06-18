@@ -7,7 +7,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     
     #router
-    path('api/v1/product/', include('core.urls')),
+    path('api/v1/projects/', include('core.urls')),
     path('api/v1/user/', include('users.urls')),
 
     #swagger
